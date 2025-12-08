@@ -1,5 +1,13 @@
 # 🎓 Student Performance Predictor
 
+
+## 🔗 Project Demo & Resources
+
+| Platform | Type | Link |
+| :--- | :--- | :--- |
+| **Streamlit** | Live App | [🚀 Launch App](https://ml-student-performanceidxgit-lqbo7xargytrfhdri2qs4b.streamlit.app/) |
+| **Kaggle** | Notebook | [📓 View Analysis & EDA](https://www.kaggle.com/code/ahmedabbas757/student-performance-prediction-eda-ml) |
+
 A machine learning web application built with **Streamlit** that predicts a student's **Performance Index** based on their study habits and extracurricular activities. This tool provides instant predictions and personalized recommendations to help students improve their academic outcomes.
 
 ## 📄 Project Description
