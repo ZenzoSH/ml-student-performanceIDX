@@ -1,0 +1,15 @@
+# macOS system files (You have this in your screenshot)
+.DS_Store
+
+# Python compiled files (Auto-generated junk)
+__pycache__/
+*.pyc
+
+# Virtual Environments (Keep these local, don't upload them)
+venv/
+env/
+.venv/
+
+# IDE/Editor settings (Optional, but good practice)
+.vscode/
+.idea/
