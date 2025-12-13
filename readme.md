@@ -12,9 +12,15 @@ A machine learning web application built with **Streamlit** that predicts a stud
 
 ## 📄 Project Description
 
+
 The Student Performance Dataset is designed to examine the factors influencing academic student performance. This application uses a **Multiple Linear Regression** model trained on 10,000 student records to analyze the relationship between predictor variables and the performance index.
 
 The app provides an interactive interface where users can input specific data points to receive a predicted score ranging from 10 to 100.
+
+<img width="1013" height="688" alt="image" src="https://github.com/user-attachments/assets/8e8c2037-f537-4fbb-a400-22c28e6ae44c" />
+<img width="930" height="718" alt="image" src="https://github.com/user-attachments/assets/a9e43bfb-095d-414d-b9b0-eee00daa2b0d" />
+
+
 
 ## 📊 Dataset & Features
 
